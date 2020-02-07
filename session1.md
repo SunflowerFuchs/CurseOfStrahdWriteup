@@ -16,8 +16,10 @@ We get some intel about the outsiders from the innkeeper, spend the night, and h
 #### Outsiders tents
 
 We talk to the outsiders, asking them to leave.
-They agree to leave, on the condition that we help them back in their hometown.
+They agree to leave, on the condition that we help them back in their hometown, Barovia.
 We accept, and we leave towards their town.
+
+![Elder at the campfire](images/campfire.png)
 
 ### Travel to the outsiders' hometown
 
@@ -25,12 +27,16 @@ We accept, and we leave towards their town.
 
 Nothing of interest happened.
 
-### Ousiders' hometown
+### Barovia
+
+![Map of Barovia](images/barovia.png)
 
 #### Somewhere in town
 
 We reached their town, and got pretty quickly approached by two children who told us about a monster living in their house.
 We agreed to try and save them, so they led us to their house.
+
+![Image of the two children](images/children.png)
 
 #### House
 
