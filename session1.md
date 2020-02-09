@@ -43,7 +43,7 @@ We agreed to try and save them, so they led us to their house.
 From the outside, the house looked very shabby/burnt.
 The front gate was open, so we decided to go in.
 
-#### First floor
+##### First floor
 
 Nothing of interest was in the hallway.
 When we entered the first bigger room, it looked very clean and tidy. Almost eerily tidy.
@@ -53,7 +53,7 @@ When we checked the kitchen a few minutes later, the kitchen suddenly looked ext
 The kitchen had a dumbwaiter, but did not contain anything of interest otherwise.
 There were no other rooms on the first floor, so we decided to continue to the second floor.
 
-#### Second floor
+##### Second floor
 
 The second floor began with a dark room full of armours on stands, with pretty murals on the walls. After closer inspection (and lighting some lamps), the muruals change to depict some horrible scenarios.
 The first room we inspect had a piano, closed windows, and more murals on the walls.
@@ -64,7 +64,7 @@ We checked out the library. It had a secret room, which contained a skeleton in 
 There was another room, but it contained nothing of interest.
 We decided to move on to the third floor.
 
-#### Third floor
+##### Third floor
 
 When we entered the third floor, an animated armour suddenly attacked.
 After a quick battle and some heals by Rokner, we continue with minimal damage.
@@ -76,7 +76,7 @@ After moving the corpses into the beds in that room, we notice that there's a do
 Thanks to the dollhouse, we find a flight of stairs leading to the basement from this floor.
 Ignoring the last room on this floor, we proceed to the basement.
 
-#### Basement
+##### Basement
 
 After entering the basement, we find some crypts with the names of the children on it.
 We proceed to lie the corpses from the previous floor into the corresponding crypts, and their souls thank us for it.
@@ -91,3 +91,7 @@ We decide to take a long rest, and Roux keeps watch for the night.
 ---
 
 End of session 1
+
+## Next Session
+
+- [Session 2](session2.md)
