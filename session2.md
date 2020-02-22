@@ -8,7 +8,9 @@
 
 ### Barovia 
 
-#### Basement of the House
+#### House
+
+##### Basement of the House
 
 Since Lilly had a little adventure in the spike pit yesterday, we let her rest for a while longer. Meanwhile, Duncan, Rivet and Roux found some letters in our nightquarters.
 
@@ -36,7 +38,7 @@ The only problem with that plan was, that the door to the next room suddenly tri
 
 The room didn't have much to offer other than an old book on the table.
 
-The next room seemed to be 
+The next room seemed to be a sleeping chamber for some cultists who do some experiments here once in a while. We found a note book that detailed all the experiments they had done to this day.
 
 Back in the mimics room, the book on the table seemed to reach out to Roux. The sigils on it seemed to be related to Azimoth, but Roux broke free from it and threw it at the mimic, which promptly ate it. To everyones suprise, the mimic spontaneously started liquifying.
 
@@ -44,7 +46,9 @@ We then decided that there was nothing more of interest down here, and continued
 
 On our way back we passed some coffins, and we met the childrens' spirits again. After hearing some more of their story (Their dad locked them in their room to protect them to the monster, but he never came back, so they starved), we assured them that we'll take care of the monster and that they should just rest for now.
 
-Going back down, we discovered that one of the rooms still had an animated broomstick in it. We didn't open the room, so there was no problem there.
+##### Third floor
+
+Going back, we discovered that one of the rooms still had an animated broomstick in it. We didn't open the room, so there was no problem there.
 
 In another room, which seemed to be the nannys bedroom, we met the spirit of the nanny. She informed us that there's possibly a third kid, and that she might have had an affair with the father.
 
@@ -54,3 +58,7 @@ It had nothing of interest, other than the fact that Roux saw a dog outside.
 ---
 
 End of Session 2
+
+## Next Session
+
+- [Session 3](session3.md)

@@ -68,6 +68,9 @@ We decided to move on to the third floor.
 
 When we entered the third floor, an animated armour suddenly attacked.
 After a quick battle and some heals by Rokner, we continue with minimal damage.
+
+##### Attic
+
 We check out a childrens bedroom, with nothing of interest in it.
 We inspect the storage room. It contains a corpse, but it's not of any interest either.
 Meanwhile, Lilly breaks a lockpick trying to pick open a locked door, so we just resort to trying to bust through the door with out weapons (we succeed after a while).
