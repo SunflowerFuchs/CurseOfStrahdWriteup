@@ -41,3 +41,7 @@ Outside, they saw the dog again, and after everyone agressively fought with each
 ---
 
 End of Session 3
+
+## Next Session
+
+- [Session 4](session4.md)
