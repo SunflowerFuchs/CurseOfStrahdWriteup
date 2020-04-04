@@ -1,4 +1,4 @@
-# Writeup from Session 3
+# Writeup from Session 4
 
 ## Last Session
 
@@ -40,3 +40,7 @@ It was a fight not without its damages, but we managed to fend them off.
 ---
 
 End of Session 4
+
+## Next Session
+
+- [Session 5](session5.md)
